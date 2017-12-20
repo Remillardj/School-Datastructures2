@@ -1,0 +1,29 @@
+========== Testing boxType ==========
+Box dimensions: Length = 1; Width = 1; Height = 1
+What color is it?
+The box is white.
+
+========== Be ye testing of yon treasureChest ==========
+The box is brown.
+
+Arr matey, the chest contains 4 coins which, in total, is worth 
+61 dubloons (on my honor, I found it this way!)
+
+Painting the chest black, matey...
+The box is black.
+
+
+No silly green pirate chests!
+[ERROR]: box color attempted to set to color other than black or brown in constructor.
+The box is black.
+
+[ERROR]: Too many coins!
+[ERROR]: Too many coins!
+[ERROR]: Too many coins!
+[ERROR]: Too many coins!
+[ERROR]: Too many coins!
+
+Now there be 100 coins in the chest.
+Arr matey, the chest contains this much loot (hands off!): 2461 dubloons
+
+Program ended with exit code: 0
